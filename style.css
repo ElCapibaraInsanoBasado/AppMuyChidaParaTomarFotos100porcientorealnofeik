@@ -1,0 +1,35 @@
+#CamarinLaCamara{
+    border-color: rgb(255, 21, 21);
+    border-width: 7px;
+    border-style: groove;
+    width: 500px;
+    height: 290px;
+}
+#FotinLaFoto{
+    border-color: rgb(188, 16, 16);
+    border-width: 7px;
+    border-style: groove;
+    width: 500px;
+    height: 290px;    
+}
+#FotoLaFoto{
+    border-color: rgb(140, 11, 11);
+    border-width: 7px;
+    border-style: groove;
+    width: 500px;
+    height: 290px; 
+}
+#FotonononaLaFoto{
+    border-color: rgb(96, 9, 9);
+    border-width: 7px;
+    border-style: groove;
+    width: 500px;
+    height: 290px;
+}
+body{
+    background: linear-gradient(to right, rgb(45, 147, 255), rgb(0, 123, 255), rgb(0, 98, 255), rgb(19, 39, 255), blue, rgb(0, 0, 195), rgb(0, 0, 99));
+} 
+#BotonConSentimientos{
+    background: linear-gradient(to bottom, red, orange, yellow, lime, darkgreen, cyan, navy, lavender, indigo, lightpink, hotpink);
+    color: white
+}
